@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithms/D&C (Divide & Conquer).md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "D&C (Divide & Conquer)"
+              "title": "README"
             }
           }
         ]
@@ -199,12 +199,12 @@
   },
   "active": "4cc1d7fde521b628",
   "lastOpenFiles": [
-    "DSA/Recursion.md",
-    "README.md",
     "Algorithms/D&C (Divide & Conquer).md",
     "Pointers&References/Pointer Definition & Examples.md",
-    "DSA",
     "Pointers&References/References Definition & Examples.md",
+    "DSA/Recursion.md",
+    "README.md",
+    "DSA",
     "Algorithms"
   ]
 }

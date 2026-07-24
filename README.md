@@ -1,4 +1,16 @@
-# C++ Cheat Sheet
+# Cpp-Concepts-Explained-Simply
+
+> [!WARNING]
+> **I am still a beginner in C++**, so any issues, misunderstandings, or errors in the information presented here should be reported in the [Issues tab](https://github.com/ironhokage/C-Cheat-sheet/issues). 
+> 
+> Your feedback is **greatly appreciated**, we're all here to learn together! 
+> 
+> **How to report an issue:**
+> 1. Go to the Issues tab
+> 2. Click "New Issue"
+> 3. Describe the problem clearly (what's wrong, where it is, and what you think it should be)
+> 4. If you can provide links and resources where you find wrong or incomplete information
+> 5. Submit, and I'll review it as soon as I can!
 
 > [!IMPORTANT]
 > This project requires little prior knowledge to understand, it is **recommended**  to at least know what a **variable** is, the **types** of variables, what **conditional statements** are and how for, while and do while work

@@ -18,6 +18,16 @@ In D&C there are three types of problems:
 
 The **"best case"** problem is a special type of sub - problem, that is small enough so we don't need to split it into further sub-problems, its like the easiest problem that has to be solved.
 
+
+## Rules for writing D&C problems in code:
+- When writing a D&C function we **MUST** always use `st == dr` (or however you named your variables for left side and right side)
+- NEVER forget to use **r1** and **r2** in the else case( adding, them or lets say `r1 || r2`, etc)
+
+
+## Tips and tricks for D&C problems:
+- When the problem looks at only **ONE** number at a time we do a check for what we are looking for in the `st == dr` (it is also called leaf). 
+- When the problem has to compare **TWO** numbers that might be in different halves of the problem we need to do the check at the composition part(where `r1 + r2` are used).
+
 ## Advantages of Divide and Conquer Algorithm:
 - **Speed & Algorithm Efficiency:**
 - **Parallelism:**
@@ -173,3 +183,4 @@ int main()
 - https://www.geeksforgeeks.org/dsa/introduction-to-divide-and-conquer-algorithm/
 - https://www.pbinfo.ro/articole/7651/divide-et-impera
 - https://www.pbinfo.ro/probleme/1149/existaprimedivimp
+- https://www.pbinfo.ro/probleme/1018/cntimpare
