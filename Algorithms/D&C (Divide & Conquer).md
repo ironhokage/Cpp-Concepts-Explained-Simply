@@ -26,7 +26,9 @@ The **"best case"** problem is a special type of sub - problem, that is small en
 
 ## Tips and tricks for D&C problems:
 - When the problem looks at only **ONE** number at a time we do a check for what we are looking for in the `st == dr` (it is also called leaf). 
-- When the problem has to compare **TWO** numbers that might be in different halves of the problem we need to do the check at the composition part(where `r1 + r2` are used).
+- When the problem has to compare **TWO** numbers that might be in different halves of the problem we need to do the check at the composition part.
+- When using `r1` and `r2`, these can be made to give the final result themselves (`return r1 + r2` or `return r1 || r2`) or they can be used as PART of the decision when filtering to give the final result (`if(r1 == 1 && r2 == 1) return 1 else return 0`, etc).
+- When doing sums in the base case you need to return `n[st]`, n being the vector of numbers and st being the first element
 
 ## Advantages of Divide and Conquer Algorithm:
 - **Speed & Algorithm Efficiency:**
