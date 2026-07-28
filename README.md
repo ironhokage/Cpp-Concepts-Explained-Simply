@@ -20,9 +20,9 @@
 When I first started this repo I just wanted to have it as a personal reference/guide for C++, but now after I have seen many courses, lessons and everything in between the conclusion was that many are not so good after all.
 
 **The main issues with current sites or educational things about C++ are:**
-- Technical jargon beginners might not understand, but it is used like it is common sens
+- Technical jargon beginners might not understand, but it is used like it is common sense
 - Very little to no examples that are connected to the world around us
-- To convoluted for the average newbie to sit down and read or to superficial so they don't really understand all that much
+- Too convoluted for the average newbie to sit down and read or to superficial so they don't really understand all that much
 
 ## <u>What i want to explore in this repo?</u>
 
