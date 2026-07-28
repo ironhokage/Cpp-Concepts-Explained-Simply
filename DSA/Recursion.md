@@ -64,8 +64,8 @@ In the example the function `is_even` gets called in `is_even` and vice versa,  
 >This **ISN'T** complete, I will add more as I learn more, I don't want to add things i haven't learned about yet or don't fully understand yet. As my understanding grows so will this list and any list like it will.
 
 
-1. [[Backtracking]]
-2. [[D&C (Divide & Conquer)]]
+1. [Backtracking](./Backtracking.md)
+2. [Divide and Conquer](./Divide-and-Conquer.md)
 
 ## Sources:
 - https://www.geeksforgeeks.org/dsa/introduction-to-recursion-2/
