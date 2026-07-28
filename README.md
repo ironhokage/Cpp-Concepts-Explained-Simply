@@ -36,3 +36,11 @@ It isn't something to make you from someone that doesn't know anything about pro
 1. [Pointers & References](./Pointers&References/)
 2. [DSA](./DSA/)
 3. [Algorithms](./Algorithms/)
+
+## <u>Exercises</u> 
+
+Every folder will contain an **Exercises** sub-folder, that will contain:
+- Three exercises types ranging from Easy to Hard
+- Each exercise type will contain 10 exercises
+- At the beginning of each exercise file there will be a demo exercise, that is resolved, so you can understand how to solve the other exercises
+- For the rest you will have the question, some requirements, and what some test data to test your code

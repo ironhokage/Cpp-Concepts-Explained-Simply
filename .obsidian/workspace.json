@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pointers&References/Exercises/Pointers/Hard Practice.md",
-                "mode": "source",
+                "file": "README.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hard Practice"
+              "title": "README"
             }
           }
         ]
@@ -197,14 +197,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a6d3355cf000022d",
+  "active": "4cc1d7fde521b628",
   "lastOpenFiles": [
+    "Pointers&References/Exercises/Pointers/Hard Practice.md",
     "Pointers&References/Exercises/References/Hard Practice.md",
     "Pointers&References/Exercises/References/Easy Practice.md",
     "Pointers&References/Exercises/Pointers/Easy Practice.md",
     "Pointers&References/Exercises/References/Medium Practice.md",
     "Pointers&References/Exercises/Pointers/Medium Practice.md",
-    "Pointers&References/Exercises/Pointers/Hard Practice.md",
     "DSA/Exercises/Recursion/Hard practice.md",
     "Pointers&References/Exercises/References",
     "Pointers&References/Exercises/Pointers",
