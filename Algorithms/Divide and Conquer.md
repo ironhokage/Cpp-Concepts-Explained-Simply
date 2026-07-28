@@ -18,6 +18,9 @@ In D&C there are three types of problems:
 
 The **"best case"** problem is a special type of sub - problem, that is small enough so we don't need to split it into further sub-problems, its like the easiest problem that has to be solved.
 
+## Why do we need D&C?
+
+
 
 ## Rules for writing D&C problems in code:
 - When writing a D&C function we **MUST** always use `st == dr` (or however you named your variables for left side and right side)
@@ -181,6 +184,12 @@ int main()
     return 0;
 }
 ```
+
+
+## Summary of D&C:
+
+
+## Exercises for D&C:
 
 ## <ins>Sources used</ins>:
 - https://www.geeksforgeeks.org/dsa/introduction-to-divide-and-conquer-algorithm/

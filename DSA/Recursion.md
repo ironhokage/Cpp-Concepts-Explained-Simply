@@ -5,6 +5,8 @@
 
 **Recursion** is a process in which any given function calls itself, be it directly or indirectly, the corresponding function is called a **recursive function**.
 
+## Why do we need recursion?
+
 ### Direct recursion:
 **Direct recursion** is the **process** in which **any** given **function** has a function **call to itself** in **itself**
 
@@ -64,7 +66,7 @@ In the example the function `is_even` gets called in `is_even` and vice versa,  
 >This **ISN'T** complete, I will add more as I learn more, I don't want to add things i haven't learned about yet or don't fully understand yet. As my understanding grows so will this list and any list like it will.
 
 
-1. [Backtracking](./Backtracking.md)
+1. [Backtracking Method](Backtracking%20Method.md)
 2. [Divide and Conquer](./Divide-and-Conquer.md)
 
 ## Sources:

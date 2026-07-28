@@ -31,6 +31,9 @@ To remember more easily what * p (when used before a pointer) and what & do, rem
 - Wild Pointer (Uninitialized / Random memory)
 
 
+## Why do we need pointers? 
+
+
 ## <ins>What are pointers?</ins>
 
 Pointers are a variable that stores the memory address of another variable.
@@ -156,6 +159,7 @@ int main()
 	char ** c = &b;
 }
 ```
+
 5. <ins> Dangling Pointer </ins>
     - A pointer that points to a value that has been freed or deleted.
     - Accessing a `dangling pointer` leads to errors and undefined behavior.

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/Recursion.md",
+                "file": "Pointers&References/Exercises/Pointers/Hard Practice.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Recursion"
+              "title": "Hard Practice"
             }
           }
         ]
@@ -197,15 +197,39 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "4cc1d7fde521b628",
+  "active": "a6d3355cf000022d",
   "lastOpenFiles": [
-    "DSA/Backtracking.md",
-    "DSA/Recursion.md",
+    "Pointers&References/Exercises/References/Hard Practice.md",
+    "Pointers&References/Exercises/References/Easy Practice.md",
+    "Pointers&References/Exercises/Pointers/Easy Practice.md",
+    "Pointers&References/Exercises/References/Medium Practice.md",
+    "Pointers&References/Exercises/Pointers/Medium Practice.md",
+    "Pointers&References/Exercises/Pointers/Hard Practice.md",
+    "DSA/Exercises/Recursion/Hard practice.md",
+    "Pointers&References/Exercises/References",
+    "Pointers&References/Exercises/Pointers",
+    "Pointers&References/Exercises",
+    "DSA/Exercises/Backtracking/Hard practice.md",
+    "DSA/Exercises/Recursion/Medium practice.md",
+    "DSA/Exercises/Backtracking/Medium practice.md",
+    "DSA/Exercises/Recursion/Easy practice.md",
+    "DSA/Exercises/Backtracking/Easy practice.md",
+    "Algorithms/Exercises/D&C/Hard Practice.md",
+    "DSA/Exercises/Recursion",
+    "DSA/Exercises/Backtracking",
+    "DSA/Exercises",
+    "DSA/Untitled.md",
+    "Algorithms/Exercises/D&C/Medium Practice.md",
+    "Algorithms/Exercises/D&C/Easy Practice.md",
     "Algorithms/Divide and Conquer.md",
-    "README.md",
-    "Pointers&References/Pointer Definition & Examples.md",
+    "Algorithms/Exercises/D&C",
+    "Algorithms/Exercises",
+    "DSA/Recursion.md",
+    "DSA/Backtracking Method.md",
     "Pointers&References/References Definition & Examples.md",
-    "DSA",
-    "Algorithms"
+    "Pointers&References/Pointer Definition & Examples.md",
+    "Dynamic Programming",
+    "Graphs",
+    "README.md"
   ]
 }
