@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
+                "file": "DSA/Backtracking Method.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Backtracking Method"
             }
           }
         ]
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -180,7 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 216.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,6 +201,13 @@
   },
   "active": "4cc1d7fde521b628",
   "lastOpenFiles": [
+    "Pointers&References/Pointer Definition & Examples.md",
+    "DSA/Backtracking Method.md",
+    "Graphs/DFS.md",
+    "DSA/Recursion.md",
+    "Algorithms/Divide-and-Conquer.md",
+    "README.md",
+    "Algorithms/Divide-and-Conquer.md",
     "Pointers&References/Exercises/Pointers/Hard Practice.md",
     "Pointers&References/Exercises/References/Hard Practice.md",
     "Pointers&References/Exercises/References/Easy Practice.md",
@@ -221,15 +230,10 @@
     "DSA/Untitled.md",
     "Algorithms/Exercises/D&C/Medium Practice.md",
     "Algorithms/Exercises/D&C/Easy Practice.md",
-    "Algorithms/Divide and Conquer.md",
     "Algorithms/Exercises/D&C",
     "Algorithms/Exercises",
-    "DSA/Recursion.md",
-    "DSA/Backtracking Method.md",
     "Pointers&References/References Definition & Examples.md",
-    "Pointers&References/Pointer Definition & Examples.md",
     "Dynamic Programming",
-    "Graphs",
-    "README.md"
+    "Graphs"
   ]
 }
