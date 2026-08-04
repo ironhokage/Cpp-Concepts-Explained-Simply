@@ -67,7 +67,7 @@ In the example the function `is_even` gets called in `is_even` and vice versa,  
 
 
 1. [Backtracking Method](Backtracking%20Method.md)
-2. [Divide and Conquer](./Divide-and-Conquer.md)
+2. [Divide and Conquer](/Algorithms/Divide-and-Conquer.md)
 
 ## Sources:
 - https://www.geeksforgeeks.org/dsa/introduction-to-recursion-2/
