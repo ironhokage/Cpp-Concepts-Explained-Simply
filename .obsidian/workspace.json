@@ -13,11 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Pointers&References/Pointers.md",
+=======
+                "file": "DSA/Backtracking Method.md",
+>>>>>>> origin/main
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
               "title": "Pointers"
             }
           },
@@ -33,6 +38,9 @@
               },
               "icon": "lucide-file",
               "title": "Recursion"
+=======
+              "title": "Backtracking Method"
+>>>>>>> origin/main
             }
           }
         ],
@@ -216,6 +224,7 @@
   },
   "active": "24d06d80b2940484",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Pointers&References/References.md",
     "Pointers&References/Pointers.md",
     "README.md",
@@ -223,10 +232,17 @@
     "Pointers%26References/Pointer Definition %26 Examples.md",
     "Pointers%26References",
     "Pointers&References.md",
+=======
+    "Pointers&References/Pointer Definition & Examples.md",
+>>>>>>> origin/main
     "DSA/Backtracking Method.md",
     "Graphs/DFS.md",
     "DSA/Recursion.md",
     "Algorithms/Divide-and-Conquer.md",
+<<<<<<< HEAD
+=======
+    "README.md",
+>>>>>>> origin/main
     "Algorithms/Divide-and-Conquer.md",
     "Pointers&References/Exercises/Pointers/Hard Practice.md",
     "Pointers&References/Exercises/References/Hard Practice.md",
@@ -249,8 +265,17 @@
     "DSA/Exercises",
     "DSA/Untitled.md",
     "Algorithms/Exercises/D&C/Medium Practice.md",
+<<<<<<< HEAD
     "Algorithms/Exercises/D&C",
     "Algorithms/Exercises",
     "Dynamic Programming"
+=======
+    "Algorithms/Exercises/D&C/Easy Practice.md",
+    "Algorithms/Exercises/D&C",
+    "Algorithms/Exercises",
+    "Pointers&References/References Definition & Examples.md",
+    "Dynamic Programming",
+    "Graphs"
+>>>>>>> origin/main
   ]
 }
