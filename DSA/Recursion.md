@@ -3,14 +3,15 @@
 
 ## What is recursion?
 
-**Recursion** is a process in which any given function calls itself, be it directly or indirectly, the corresponding function is called a **recursive function**.
+**Recursion** is a process in which a function calls itself, either directly or indirectly. A function that calls itself is known as a **recursive function**.
 
-## Why do we need recursion?
+# Types of Recursion
 
-### Direct recursion:
-**Direct recursion** is the **process** in which **any** given **function** has a function **call to itself** in **itself**
+## Direct recursion:
 
-**Analogy:** Lets imagine a dog that chases its own tail, this is how direct recursion works.
+**Direct recursion** occurs when a function contains an explicit call to **itself** within its own body.
+
+**Analogy:** Imagine a dog chasing its own tail. This endless loop of self-pursuit is how direct recursion works until a stopping condition is met
 
 **Example:**
 
@@ -48,7 +49,7 @@ bool is_odd(int n) {
 }
 ```
 
-In the example the function `is_even` gets called in `is_even` and vice versa,  the function `is_even` gets called in `is_even`.
+In this example, `is_even` calls `is_odd`, and `is_odd` calls `is_even` back, creating a recursive cycle.
 
 
 ## Steps when writing an recursive function
@@ -64,7 +65,6 @@ In the example the function `is_even` gets called in `is_even` and vice versa,  
 ## Common usages of recursion:
 >[!IMPORTANT] 
 >This **ISN'T** complete, I will add more as I learn more, I don't want to add things i haven't learned about yet or don't fully understand yet. As my understanding grows so will this list and any list like it will.
-
 
 1. [Backtracking Method](Backtracking%20Method.md)
 2. [Divide and Conquer](/Algorithms/Divide-and-Conquer.md)

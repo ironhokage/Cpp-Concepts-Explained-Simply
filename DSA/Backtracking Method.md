@@ -32,10 +32,7 @@ The `v[]` vector gets computed staring from one until n with the step of k, the 
 1. Element `v[k]` gets the values from the set A<sub>k</sub> in a linear order.
 2. Each value is compared to `v[1], v[2], ... , v[k-1]` (i think it finishes at k-1 because k its the final value) and there are 2 scenarios that can happen:
 	1. The value is "bad" and we continue checking, if all values are "bad" we backtrack, we do this because we might find a "good" value after the "bad" one.
-<<<<<<< HEAD
 	2. If the value is good, we add it to the vector and continue until we reach the end of that branch, then we backtrack
-=======
->>>>>>> origin/main
 
 
 
