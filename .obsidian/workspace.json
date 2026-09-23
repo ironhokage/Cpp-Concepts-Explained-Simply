@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Keywords/Polymorphism/Virtual Keyword.md",
-                "mode": "preview",
+                "file": "DSA/The Euclidean Algorithm.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Virtual Keyword"
+              "title": "The Euclidean Algorithm"
             }
           }
         ]
@@ -169,13 +169,23 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "7a160f5d567d7a26",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,8 +204,10 @@
   },
   "active": "2cfbf9819d26e559",
   "lastOpenFiles": [
-    "Pointers&References/Pointers.md",
+    "Algorithms/Untitled.md",
+    "DSA/The Euclidean Algorithm.md",
     "Keywords/Polymorphism/Virtual Keyword.md",
+    "Pointers&References/Pointers.md",
     "DSA/Recursion.md",
     "Keywords/Instance",
     "Keywords/Access Specifiers",
